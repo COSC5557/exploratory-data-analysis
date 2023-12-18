@@ -18,16 +18,22 @@ excluding appendices. It should have the following structure:
   Include plots as appropriate.
 - Code: Add the code you've used as a separate file.
 
+Your report must contain enough detail to reproduce what you did without the
+code. If in doubt, include more detail.
+
 There is no required format for the report. You could, for example, use an
 iPython notebook. Your report should contain a lot of plots or tables to
 illustrate the data. Describe any issues you found with the data.
 
 ## Data
 
-We will have a look at the [Wine Quality
-dataset](https://archive-beta.ics.uci.edu/dataset/186/wine+quality). Choose the
-one that corresponds to your preference in wine. You may also use a dataset of
-your choice, for example one that's relevant to your research.
+Have a look at two different datasets. Ideally, they should have different
+characteristics so that the results of your analysis will be different. You
+could use, for example, the [Wine Quality dataset](https://archive-beta.ics.uci.edu/dataset/186/wine+quality)
+(choose the type of wine of your preference) and the
+[Primary Tumor dataset](https://www.openml.org/search?type=data&sort=runs&id=1003&status=active).
+You may also use a dataset of your choice, for example one that's relevant to
+your research.
 
 Choose a small number of preprocessing methods (e.g. normalizing feature values)
 and explore their application to the data. This could, for example, include
